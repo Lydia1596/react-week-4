@@ -48,7 +48,7 @@ root.render(
     </div>
     <footer>
       <a
-        href="https://github.com/Lydia1596/vanilla_weather_app.git"
+        href="https://github.com/Lydia1596/react-week-4"
         target="_blank"
         rel="noreferrer"
         className="githubLink"
